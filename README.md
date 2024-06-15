@@ -1,8 +1,8 @@
 
-- 👋 Hi, I’m Ramkumar-Rangasamy
-- 👀 I’m interested in Full Stack Developer and web Developer
-- 🌱 I’m currently in Jobseeker
-- 💞️ I’m looking to collaborate on  all teams 
+- 👋 Hi, I’m Ramkumar R
+- 👀 I’m interested in Full Stack  and React Developer
+- 🌱 I’m currently in working
+- 💞️ collaborate on  all teams 
 - 📫 How to reach me ...
 
 <!---
