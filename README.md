@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m Ramkumar R
-- 👀 my Role in  Full Stack and React Developer
+- 👀 My role in  Full Stack and React Developer
 - 🌱 I’m currently in working
 - 💞️ collaborate on  all teams 
 - 📫 How to reach me ...
